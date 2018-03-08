@@ -1,7 +1,7 @@
 # README
 
 - Http Authentication enabled
-  Username: root
-  Password: root
+  __Username__: root
+  __Password__: root
 - You need to add SQLite Rubygem. 
-- Run command: __rake db:migrate__ . This will create the tables.
+-  Run the following command to create the tables: __rake db:migrate__
